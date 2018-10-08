@@ -1,0 +1,4 @@
+1-heroku login
+2-git push
+2-heroku create
+4-git push heroku master
